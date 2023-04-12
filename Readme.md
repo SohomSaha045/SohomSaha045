@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Flutter based projects
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Web
-<!-- - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<!-- - 💬 Ask me about Web -->
+<!-- - 📫 How to reach me:  -->
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: I started learning react with out javascript knowledge 😅😅😅
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
