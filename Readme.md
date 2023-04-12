@@ -8,10 +8,11 @@
 <!-- - 📫 How to reach me:  -->
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I started learning react with out javascript knowledge 😅😅😅
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" width="300"/>
 <!--   <iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p> -->
-</div>
+</div> -->
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gairik-sharma-1633b4223/">
