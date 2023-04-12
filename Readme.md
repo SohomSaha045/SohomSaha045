@@ -8,22 +8,22 @@
 <!-- - 📫 How to reach me:  -->
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I started learning react with out javascript knowledge 😅😅😅
-<!-- <div id="header" align="center">
-  <img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" width="300"/>
-<!--   <iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p> -->
-</div> -->
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+<div id="header" align="center">
+ <div id="header" align="center">
+  <img src="https://media1.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif?cid=ecf05e47c8ezcazirey7fnp5yqb2uwq1ojc1qwmml14hexot&rid=giphy.gif&ct=g" width="300"/>
+</div>
 
-<div id="badges" align="center">
+
+<!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gairik-sharma-1633b4223/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/sharma_gairik">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GairikSharma" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GairikSharma" /></a> </p> -->
 
 
 
@@ -31,8 +31,12 @@
 - :telescope: I’m a MERN developer, my speciality is React.Js
 
 - :seedling: Exploring AI -->
+  
+  <br/>
+    <br/>
+    <br/>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gairik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gairik-sharma-1633b4223/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sohom-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sohom-saha-339593215/)
 
 
 
@@ -46,7 +50,7 @@
   <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;
@@ -60,11 +64,11 @@
 
 ### :fire: My Stats :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GairikSharma&show_icons=true&locale=en&theme=dark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SohomSaha045&show_icons=true&locale=en&theme=dark" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GairikSharma&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SohomSaha045&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GairikSharma&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohomSaha045&layout=compact&theme=dark)
 
 
 
