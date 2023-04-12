@@ -1,8 +1,8 @@
-### Hi there 👋 Myself Gairik Sharma
-- :telescope: I’m a MERN developer, my speciality is React.Js
-- 🔭 I’m currently working on a Fullstack(MERN) Task manager
-- 🌱 I’m currently learning AI
-- 👯 I’m looking to collaborate on Web based projects
+### Hi there 👋 Myself Sohom Saha
+- :telescope: I’m a Flutter/Blockchain developer, my speciality is Blockchain
+- 🔭 I’m currently working on self projects
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Flutter based projects
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web
 <!-- - 📫 How to reach me: ...
