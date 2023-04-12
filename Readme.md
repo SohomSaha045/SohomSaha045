@@ -9,7 +9,7 @@
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I started learning react with out javascript knowledge 😅😅😅
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fpudgypenguins-data-code-coding-2IudUHdI075HL02Pkk&psig=AOvVaw20h7Uz380jTPntyS-Mjs7x&ust=1681413292916000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjU46WHpf4CFQAAAAAdAAAAABAJ" width="300"/>
 </div>
 
 <div id="badges" align="center">
