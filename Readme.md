@@ -1,8 +1,9 @@
 ### Hi there 👋 Myself Sohom Saha
-- :telescope: I’m a Flutter/Blockchain developer, my speciality is Blockchain
+- :telescope: I’m a NEXT developer, my speciality is FullStack Devlopment
 - 🔭 I’m currently working on self projects
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter based projects
+- 🌱 I’m have experiance in BLockchain
+- 👯 I’m also looking to collaborate on Flutter based projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about Web -->
 <!-- - 📫 How to reach me:  -->
